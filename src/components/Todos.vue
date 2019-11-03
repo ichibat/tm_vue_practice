@@ -7,6 +7,8 @@
 </template>
 
 <script>
+import TodoItem from 'Todoitem'
+
 export default {
  name:"Todos",
  props: ["todos"]
