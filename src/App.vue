@@ -32,6 +32,7 @@ export default {
           completed: false
         }
       ]
+    }
     },
     methods: {
       deleteTodo(id) {
